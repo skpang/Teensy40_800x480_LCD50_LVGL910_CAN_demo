@@ -5,6 +5,9 @@ https://www.skpang.co.uk/collections/teensy/products/teensy-4-0-classic-can-can-
 
 Requires LVGL v9.1.0
 
+Move file lv_conf.h to :
+Arduino/libraries/lv_conf.h
+
 
 
  
